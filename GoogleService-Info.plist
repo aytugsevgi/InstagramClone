@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>36880155149-ruhaipqa6v0ovl5br878hg853368lvi1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.36880155149-ruhaipqa6v0ovl5br878hg853368lvi1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAE0xWnnm7XuD6sIG_9K7q7tn8WpWv1h3U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>36880155149</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aytug.InstagramClone</string>
+	<key>PROJECT_ID</key>
+	<string>kimlikdogrulama-7942c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kimlikdogrulama-7942c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:36880155149:ios:735a589209078b6b518b44</string>
+	<key>DATABASE_URL</key>
+	<string>https://kimlikdogrulama-7942c.firebaseio.com</string>
+</dict>
+</plist>
