@@ -20,6 +20,7 @@ class CustomTextField: UITextField {
         textColor = .white
         keyboardAppearance = .dark
         keyboardType = .emailAddress
+        autocapitalizationType = .none
         backgroundColor = UIColor(white: 1, alpha: 0.1)
         setHeight(40)
         attributedPlaceholder = NSAttributedString(string: placeHolder, attributes: [.foregroundColor: UIColor(white: 1, alpha: 0.7)])
