@@ -31,7 +31,7 @@ struct AuthService {
                 
                 let data: [String: Any] = ["email": credential.email, "fullname": credential.fullname, "profileImageUrl": imageUrl, "uid": uid, "username": credential.username]
                 
-                Firestore.firestore().collection("users").document(uid).setData(data) { (error) in
+                COLLECTION_USERS.document(uid).setData(data) { (error) in
                     if let error = error {
                         print("DEBUG: Failed is collection set data \(error.localizedDescription)")
                     }

@@ -16,8 +16,6 @@ class MainTabController : UITabBarController {
         super.viewDidLoad()
         checkIfUserIsLoggedIn()
         configureViewControllers()
-        
-
     }
     
     // MARK: - API
